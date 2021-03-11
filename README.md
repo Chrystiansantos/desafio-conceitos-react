@@ -1,13 +1,13 @@
 # Desafio conceitos React.
 
 ## Objetivo
-O objetivo deste projeto consiste em um concluir o desafio proposto no primeiro modulo pela rocketseat onde foi ensinado sobre:
+O objetivo deste projeto consiste em um concluir o desafio, proposto no primeiro modulo pela rocketseat, onde foi ensinado sobre:
 
  - useState.
  - useEffect.
  - components.
- - requisicoes.
- - Importancia da utilizacao do TS entre varias outras aprendizagem :)
+ - requisições.
+ - Importancia da utilização do TS, entre várias outros aprendizados :)
 
 ## Demo:
 
